@@ -48,7 +48,7 @@
 </head>
 <body>
     <h1>Chúc mừng 8/3!</h1>
-    <p>Hôm nay 8/3 chúng tớ xin chúc các bạn nữ lớp 8B luôn xinh đẹp, học giỏi và vui vẻ!</p>
+    <p>chúc toàn thể các bạn nữ lớp 8B cũng như cô giáo chủ nhiệm một ngày 8-3 vui vẻ mạnh khỏe và hạnh phúc!</p>
     <p>Chúc các bạn có một ngày thật đặc biệt và tràn đầy yêu thương! ❤️</p>
 
     <audio id="myAudio" loop>
@@ -74,3 +74,4 @@
     </script>
 </body>
 </html>
+
